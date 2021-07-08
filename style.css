@@ -1,0 +1,35 @@
+.body_backgorund {
+    background-image: url("https://cdn3.vectorstock.com/i/1000x1000/19/52/art-painter-background-creative-realistic-vector-29031952.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(255, 174, 0); 
+      font-size: 30px;
+      font-family: Fantasy;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
